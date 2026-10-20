@@ -1,0 +1,27 @@
+{
+  "name": "image-generation",
+  "version": "1.0.0",
+  "description": "Model-agnostic prompting guide for modern text-to-image models. Distilled from public guides for Imagen, Gemini Image, GPT Image, DALL-E, Stable Diffusion, Flux, Ideogram, Leonardo, and Midjourney.",
+  "author": {
+    "name": "Ahmed Raza",
+    "email": "ahmedraza28@users.noreply.github.com",
+    "url": "https://github.com/ahmedraza28"
+  },
+  "homepage": "https://github.com/ahmedraza28/image-generation-skill",
+  "repository": "https://github.com/ahmedraza28/image-generation-skill",
+  "license": "MIT",
+  "keywords": [
+    "image-generation",
+    "text-to-image",
+    "prompt-engineering",
+    "imagen",
+    "gemini-image",
+    "gpt-image",
+    "dalle",
+    "stable-diffusion",
+    "flux",
+    "midjourney",
+    "ideogram",
+    "leonardo"
+  ]
+}
